@@ -10,6 +10,8 @@
             //• Para mulheres: (62.1 * h) - 44.7
             //• Onde h equivale à altura da pessoa.
 
+            //teste
+
             double altura, pesoM, pesoF;
             char sexo;
             
