@@ -10,11 +10,10 @@
             //• Para mulheres: (62.1 * h) - 44.7
             //• Onde h equivale à altura da pessoa.
 
-          
+         
             double altura, pesoM, pesoF;
             char sexo;
             
-
             Console.WriteLine("Informe sua altura: ");
             altura = double.Parse(Console.ReadLine());
 
